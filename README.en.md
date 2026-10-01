@@ -1,12 +1,14 @@
 <div align="center">
 
-# XXD Panel 223｜摄影与数码混合媒介拼贴海报
+# XXD Panel 223｜复古雕版微型图集
 
-Redirect an everyday photograph into a standalone art poster, preserving its recognisable core while rethinking material, composition and whitespace.
+Turn the photograph into a vintage engraved miniature atlas: separate small motifs, mostly paper, black plus one accent.
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
+
+> Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
 ## 16:9 Left–Right Samples
 
@@ -40,9 +42,9 @@ Four further independent sources, different from the 16:9 set, regenerated as co
 
 ## Best-fit situations and problems solved
 
-For personal photography collections, independent publications, exhibition studies and lifestyle visuals. A weak composition, busy background or small subject becomes a starting point for subtraction, rearrangement, cropping and scale changes—not a reason to apply a filter.
+For a page in an old pictorial atlas, an independent art book or a cultural publication. The upper half keeps a recognisable source photograph. The lower half is not one large picture. It is a set of unconnected small engraved motifs, with about seventy to eighty percent of the field left as paper.
 
-上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色
+Each motif is usually black plus one accent taken from the source, drawn with dark contours, cut lines, hatching and slight uneven ink. Avoid a subject that fills the frame, a complete scene, connected motifs, all-over decoration, full colour inside one motif, cartoons, modern interface icons and template layouts.
 
 ## Usage tips
 

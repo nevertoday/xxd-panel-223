@@ -1,12 +1,14 @@
 <div align="center">
 
-# XXD Panel 223｜摄影与数码混合媒介拼贴海报
+# XXD Panel 223｜复古雕版微型图集
 
-把普通照片重新导演成可独立使用的艺术海报；保留主体记忆点，让材质、构图与留白共同工作。
+把照片收成复古雕版微型图集：彼此独立的小图形、七到八成纸面、黑色加一个强调色。
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
+
+> 原始提示词（五语入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
 ## 16:9 左右双联样张
 
@@ -40,9 +42,9 @@
 
 ## 适用场景与解决的问题
 
-适合个人摄影整理、独立出版、展览练习和生活方式视觉创作。原图构图普通、背景杂乱或主体偏小，也可以通过删减、重组、裁切和尺度变化重新建立重点，而不是把照片套上滤镜。
+适合旧版图鉴、独立艺术书和文化出版物里的小型插图页。上半保留可辨认的原照；下半不是一整张大图，而是一组互不连接的小型雕版图形，纸面大约留出七到八成。
 
-整体呈现 **Tiny focal element / Expansive negative space / Warm neutral field / Sparse color accents** 的视觉气质：极小主体、巨大留白、低密度图文、单色印刷块与纸张颗粒共同构成安静、文学、克制、诗意而高级的独立出版物视觉。
+每个小图形通常只用黑色加一个从原照提炼的强调色，线是深色轮廓、刻线、排线和轻微掉墨。避免大主体占满、完整场景、图形相连、满版装饰、单个图形全彩、卡通、现代界面图标和模板构图。
 
 ## 使用窍门
 
