@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 223｜Vintage Engraved Miniature Atlas: breaks a photo into a small set of separate, unconnected miniature motifs — a few representative figures, details, objects, plants or architectural features — each drawn in vintage engraving linework with letterpress or woodcut texture (dark outlines, carved lines, hatching, black blocks, slight ink loss and offset), sparsely arranged so 70–80% of the warm white or ivory page stays empty, using black plus one accent per motif from two or three spot colours drawn from the photo (such as deep wine, petrol teal, ochre gold or ink green), with a few small, light, widely spaced words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-223 or asks for vintage engraved spot illustrations, miniature motif sheets or old field-guide plates from a photo.",
+  "short_description": "复古雕版微型图集：把照片拆成一组互不相连的小雕版图形，像旧图鉴里的插图页",
+  "zh-CN": {
+    "name": "复古雕版微型图集",
+    "tagline": "把照片拆成一组互不相连的小型雕版图形，像旧图鉴里的一页插图。",
+    "look": "照片不会画成一整张大图，而是挑出少量最有代表性的主体、局部、动作、器物、植物或建筑特征，分别画成很小、彼此独立的图形，从这些碎片里仍能读出原照片。每个图形都是复古雕版线描，带凸版或木刻的质感：深色轮廓、刻线、排线、黑白块面和一点掉墨、错位。底是暖白或象牙纸色，约七到八成空着，小图形稀疏错落。每个图形通常只用黑色加一个从照片里提炼的强调色，如深酒红、石油蓝青、赭金或墨绿，不同图形轮换着用。留白里有几处小字号、轻字重的字词。",
+    "traits": ["小型独立图形", "七八成留白", "雕版线描", "黑加一强调色", "稀疏编辑文字"],
+    "good": [
+      "细节丰富、能拆出几样东西的照片：一张早餐桌、一个花园角落、一间工作室",
+      "有代表性器物或特征的场景：一条老街、一个集市摊位、一次露营",
+      "想做旧版图鉴页、独立艺术书插图或文化出版物配图的照片"
+    ],
+    "poor": [
+      "只有一个大主体、没有可拆细节的照片，比如一张纯人像，会显得单薄",
+      "需要完整场景和整体气氛的照片：日落海景、雾中山谷",
+      "想要全彩填色、现代扁平图标或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Vintage Engraved Miniature Atlas",
+    "tagline": "Breaks a photo into a set of separate tiny engraved motifs, like a page from an old field guide.",
+    "look": "Instead of one large picture, a few of the most telling elements in your photo, such as a figure, a detail, a gesture, an object, a plant or a piece of architecture, are each drawn as a tiny, stand-alone motif, and together these fragments still let you read the original. Every motif is vintage engraving linework with a letterpress or woodcut feel: dark outlines, carved lines, hatching, black blocks and a little ink loss or offset. The ground is warm white or ivory paper with seventy to eighty percent left empty and the motifs sparsely scattered. Each motif usually uses just black plus one accent drawn from the photo, such as deep wine, petrol teal, ochre gold or ink green, rotated across the set. A few small, light words sit in the white space.",
+    "traits": ["Tiny separate motifs", "Seventy to eighty percent white", "Engraving linework", "Black plus one accent", "Sparse editorial text"],
+    "good": [
+      "Detailed photos you can pull several things out of: a breakfast table, a garden corner, a workshop",
+      "Scenes with characteristic objects or features: an old street, a market stall, a camping trip",
+      "Photos you want as an old field-guide page, an art-book illustration or a cultural publication image"
+    ],
+    "poor": [
+      "Photos with one large subject and nothing to separate out, such as a plain portrait, which can feel thin",
+      "Photos that need the whole scene and its atmosphere: a seaside sunset, a misty valley",
+      "Requests for full-colour fills, modern flat icons or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "レトロ版画のミニ図鑑",
+    "tagline": "写真を、互いにつながらない小さな版画の図にばらし、古い図鑑の一頁のようにします。",
+    "look": "写真を一枚の大きな絵にはせず、いちばん象徴的な人物、部分、動き、道具、植物、建物の特徴をいくつか選び、それぞれをごく小さな独立した図にします。かけらの集まりからでも元の写真が読み取れます。どの図もレトロな彫版の線描で、凸版や木版の質感があります。濃い輪郭、彫り線、ハッチング、黒い面、わずかなかすれやずれ。地は暖かな白か象牙色の紙で、七〜八割は空け、小さな図をまばらに配します。ひとつの図には基本的に黒と強調色ひとつだけを使い、強調色は写真から取った深いワインレッド、石油のような青緑、黄土の金、墨緑などを図ごとに入れ替えます。余白には小さく軽い文字が少し入ります。",
+    "traits": ["独立した小さな図", "七〜八割の余白", "彫版の線描", "黒と強調色ひとつ", "まばらな文字"],
+    "good": [
+      "細部が多く、いくつかの物を取り出せる写真：朝食のテーブル、庭の一角、工房",
+      "特徴的な道具や要素がある場面：古い通り、市場の屋台、キャンプ",
+      "古い図鑑の頁、アートブックの挿絵、文化系出版物の図版にしたい写真"
+    ],
+    "poor": [
+      "大きな主役が一つだけで取り出す細部がない写真（シンプルな人物写真などは物足りなくなります）",
+      "場面全体と雰囲気が大事な写真：海の夕日、霧の谷",
+      "フルカラーの塗り、現代的なフラットアイコン、アニメ風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "레트로 판화 미니 도감",
+    "tagline": "사진을 서로 이어지지 않는 작은 판화 그림 여러 개로 나누어 옛 도감의 한 페이지처럼 만듭니다.",
+    "look": "사진을 한 장의 큰 그림으로 그리지 않고, 가장 대표적인 인물, 부분, 동작, 도구, 식물, 건축 특징 몇 가지를 골라 각각 아주 작은 독립 그림으로 만듭니다. 이 조각들만으로도 원래 사진을 읽어낼 수 있습니다. 모든 그림은 레트로 판화 선묘에 활판이나 목판 질감이 있어, 짙은 윤곽, 새김선, 해칭, 검은 면, 약간의 잉크 빠짐과 어긋남이 보입니다. 바탕은 따뜻한 흰색이나 상아색 종이로 7~8할을 비워 두고, 작은 그림들을 드문드문 배치합니다. 그림 하나에는 보통 검정과 강조색 하나만 쓰며, 강조색은 사진에서 뽑은 짙은 와인색, 석유빛 청록, 황토빛 금색, 먹초록 등을 그림마다 돌려 씁니다. 여백에는 작고 가벼운 글자가 조금 들어갑니다.",
+    "traits": ["작은 독립 그림", "7~8할 여백", "판화 선묘", "검정과 강조색 하나", "드문 편집 글자"],
+    "good": [
+      "세부가 많아 여러 사물을 뽑아낼 수 있는 사진: 아침 식탁, 정원 한 구석, 작업실",
+      "특징적인 도구나 요소가 있는 장면: 오래된 골목, 시장 노점, 캠핑",
+      "옛 도감 페이지, 아트북 삽화, 문화 출판물 도판으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "큰 주인공 하나뿐이고 나눌 세부가 없는 사진(단순한 인물 사진은 빈약해 보일 수 있습니다)",
+      "장면 전체와 분위기가 중요한 사진: 바다 노을, 안개 낀 계곡",
+      "전체 채색, 현대적 플랫 아이콘, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أطلس منمنمات محفورة عتيق",
+    "tagline": "يفكك الصورة إلى مجموعة من رسوم محفورة صغيرة منفصلة، كأنها صفحة من دليل علمي قديم.",
+    "look": "بدلاً من صورة كبيرة واحدة، تُختار بضعة عناصر هي الأكثر دلالة في صورتك، كشخص أو تفصيل أو حركة أو أداة أو نبتة أو ملمح معماري، ويُرسم كل منها زخرفة صغيرة مستقلة، ومن هذه القطع مجتمعة يمكن قراءة الصورة الأصلية. كل زخرفة مرسومة بخطوط الحفر العتيق بملمس الطباعة البارزة أو الخشبية: حدود داكنة وخطوط محفورة وتظليل خطي وكتل سوداء مع قليل من انقطاع الحبر والانزياح. الخلفية ورق أبيض دافئ أو عاجي يبقى سبعون إلى ثمانين في المئة منه فارغاً، والزخارف متناثرة بتباعد. تستخدم كل زخرفة عادة الأسود ولون تأكيد واحداً مستخلصاً من الصورة، مثل الخمري الداكن أو الفيروزي النفطي أو الذهبي المغري أو الأخضر الحبري، يتناوب بين الزخارف. وتظهر في الفراغ كلمات قليلة صغيرة خفيفة.",
+    "traits": ["زخارف صغيرة منفصلة", "سبعون إلى ثمانين في المئة فراغ", "خطوط حفر عتيقة", "الأسود مع لون واحد", "نص تحريري متفرق"],
+    "good": [
+      "صور غنية بالتفاصيل يمكن استخراج عدة أشياء منها: مائدة فطور، ركن حديقة، ورشة",
+      "مشاهد فيها أدوات أو ملامح مميزة: شارع قديم، كشك في سوق، رحلة تخييم",
+      "صور تريدها صفحة في دليل قديم أو رسماً لكتاب فني أو صورة لمطبوعة ثقافية"
+    ],
+    "poor": [
+      "صور فيها عنصر كبير واحد بلا تفاصيل تُستخرج، كصورة شخصية بسيطة، فتبدو النتيجة فقيرة",
+      "صور يهمّ فيها المشهد كاملاً بأجوائه: غروب على البحر، وادٍ في الضباب",
+      "طلب تلوين كامل أو أيقونات مسطحة حديثة أو مظهر كرتوني"
+    ]
+  }
+}

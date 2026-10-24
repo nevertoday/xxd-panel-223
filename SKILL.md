@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-223
-description: "Create XXD Panel 223 raster artwork: a faithful photograph paired with a vintage engraving miniature-motif collection, small separate motifs, about seventy to eighty percent paper, woodcut line, black plus one accent and sparse editorial type. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-223 or asks for this engraved miniature-motif style."
+description: "XXD Panel 223｜Vintage Engraved Miniature Atlas: breaks a photo into a small set of separate, unconnected miniature motifs — a few representative figures, details, objects, plants or architectural features — each drawn in vintage engraving linework with letterpress or woodcut texture (dark outlines, carved lines, hatching, black blocks, slight ink loss and offset), sparsely arranged so 70–80% of the warm white or ivory page stays empty, using black plus one accent per motif from two or three spot colours drawn from the photo (such as deep wine, petrol teal, ochre gold or ink green), with a few small, light, widely spaced words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-223 or asks for vintage engraved spot illustrations, miniature motif sheets or old field-guide plates from a photo."
 ---
 
 # XXD Panel 223
